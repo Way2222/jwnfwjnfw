@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Hi, I'm Jinxy 🙈"];
+const statusMessages = ["NETT RP OFFICIAL BOT"];
 
 
 let currentIndex = 0;
