@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["NETT RP OFFICIAL BOT"];
+const statusMessages = ["Brev City Bot"];
 
 
 let currentIndex = 0;
